@@ -1,0 +1,10 @@
+URxvt*foreground:White
+URxvt*background:Black
+
+URxvt*font: xft: DejaVu Sans Mono:pixelsize=11:antialias=true:hinting=true
+
+URxvt*scrollBar: False
+URxvt*scrollTtyOutput: False
+URxvt*scrollTtyKeypress: True
+URxvt*secondaryScroll: True
+URxvt*saveLines: 1000
